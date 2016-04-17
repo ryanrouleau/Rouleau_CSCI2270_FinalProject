@@ -1,2 +1,2 @@
 # CSCI2270-final-project
-Final project for CU's Data Structure class
+This project will aim to use libcurl to log into oncampus.colorado.edu, store each word from the raw html in a linked list, find the dining balance for the user, and display the results in a neatly formatted terminal output.  This will solve the cumbersone nature of navigating to the actual site and having to make several clicks for a small amount of information that is accessed frequently.  
