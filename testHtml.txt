@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+  <title>OnCampus</title>
+  <meta charset="utf-8" />
+<meta http-equiv="cleartype" content="on" />
+<link rel="apple-touch-icon-precomposed" href="https://oncampus.colorado.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" href="https://oncampus.colorado.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="https://oncampus.colorado.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="https://oncampus.colorado.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<meta name="MobileOptimized" content="width" />
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=186611,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+<!-- End Visual Website Optimizer Asynchronous Code --><meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="https://oncampus.colorado.edu/sites/all/themes/oncampus_omega4/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width" />
+  <link type="text/css" rel="stylesheet" href="https://oncampus.colorado.edu/sites/default/files/css/css_1Ku2Mwz_KvwXv06FhJuisYYH7MvjNad48o4rmL9txWw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://oncampus.colorado.edu/sites/default/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://oncampus.colorado.edu/sites/default/files/css/css_c73_bNIRHOHlDiTQv6XwAVZqSixBXkMkZ-Unaln_bVQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://oncampus.colorado.edu/sites/default/files/css/css_IfUk8Ez-3wfTFZLPE9hJOw49nPss0MEIZmiu11O9dRE.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://oncampus.colorado.edu/sites/default/files/css/css_Mj6oSSkHZFXOFF84HE59GXawfLuKZFh242_CZCQUJQI.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://oncampus.colorado.edu/sites/default/files/css/css_h3aHunZWatbdsKuxATqM9WErQtkhIN-Yc_FqRsB2alQ.css" media="all" />
+<style>@font-face{font-family:HelveticaNeueW01-XBlkCn 710276;src:url("http://api3.fonts.com/FontSampler.ashx?fctypeId=2&origId=978fc490-bc85-49a5-a85d-d28703cdeb3b&fcId=96017e22-70f3-4c82-9620-352a5f107d90&fontformat=W01&v=4");src:url("http://api3.fonts.com/FontSampler.ashx?fctypeId=1&origId=96017e22-70f3-4c82-9620-352a5f107d90&fcId=96017e22-70f3-4c82-9620-352a5f107d90&fontformat=W01&v=4") format("truetype"),url("http://api3.fonts.com/FontSampler.ashx?fctypeId=3&origId=58310d61-40ac-4464-b817-30d9e9deb3bb&fcId=96017e22-70f3-4c82-9620-352a5f107d90&fontformat=W01&v=4") format("woff"),url("http://api3.fonts.com/FontSampler.ashx?fctypeId=11&origId=d7282731-5798-4d1c-90ae-efbd49632898&fcId=96017e22-70f3-4c82-9620-352a5f107d90&fontformat=W01&v=4#d7282731-5798-4d1c-90ae-efbd49632898") format("svg");}
+</style>
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://oncampus.colorado.edu/sites/default/files/css/css_Dwy_A7IQdpIW_NeJoceZUu7v4e2ZlVC-R_5AJWtaBxc.css" media="all" />
+<![endif]-->
+  <script src="https://oncampus.colorado.edu/sites/default/files/js/js_SxeLvWBoglNCcE5r-dJPQ_8RbL6spoIYsRXBtkLW0k4.js"></script>
+<script src="https://oncampus.colorado.edu/sites/default/files/js/js_obFUyTbqtcoGQtszVI46l1_oD927PzlDtlr_ilpYBqE.js"></script>
+<script src="https://oncampus.colorado.edu/sites/default/files/js/js_MtAh-NfxqEB4--JtJmwGw9zfxnAAjtcyV1q6CnieCkg.js"></script>
+<script src="https://oncampus.colorado.edu/sites/default/files/js/js_ZwtHh_UtMhEyIZ7P23uU_tO_tZHXgPG1rk11b_m8s9Y.js"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://oncampus.colorado.edu/sites/default/files/js/js_-fERO1mrA65-1p-76uCTBH-yt54hzjZWC68jbuinE3U.js"></script>
+<script src="https://oncampus.colorado.edu/sites/default/files/js/js_L0nKFNLYLVPST_Bo2Fdv8MBXUTDDWZ6DcS-j2Dpflo8.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","better_exposed_filters":{"views":{"my_incomplete_events":{"displays":{"block":{"filters":[]}}},"events":{"displays":{"oncampus_event_block":{"filters":[]}}},"news_aggregator":{"displays":{"news_events_housing_block":{"filters":[]}}},"dashboard_ads":{"displays":{"block":{"filters":[]}}},"map_view":{"displays":{"block_4":{"filters":[]},"block_2":{"filters":[]}}},"dashboard":{"displays":{"my_info_block":{"filters":[]}}}}},"quicktabs":{"qt_news_updates_tabs":{"name":"news_updates_tabs","tabs":[{"bid":"views_delta_events-oncampus_event_block","hide_title":1},{"bid":"views_delta_bb6460d3b0bb619ab9c45d4fe863dd56","hide_title":1}],"better_exposed_filters":{"views":{"news_aggregator":{"displays":{"news_events_housing_block":{"filters":[]}}}}}},"qt_dashboard":{"name":"dashboard","tabs":[{"bid":"panels_mini_delta_dashboard_housing","hide_title":1},{"bid":"panels_mini_delta_dashboard_my_info","hide_title":1},{"bid":"panels_mini_delta_dashboard_dining","hide_title":1}],"quicktabs":{"qt_news_updates_tabs":{"name":"news_updates_tabs","tabs":[{"bid":"views_delta_events-oncampus_event_block","hide_title":1},{"bid":"views_delta_bb6460d3b0bb619ab9c45d4fe863dd56","hide_title":1}],"better_exposed_filters":{"views":{"news_aggregator":{"displays":{"news_events_housing_block":{"filters":[]}}}}}}}}},"viewsSlideshow":{"dashboard_ads-block":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"play":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_dashboard_ads-block":{"num_divs":5,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"dashboard_ads-block","effect":"fade","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"proj4js":[["EPSG:3857","+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs"]],"openlayers":{"maps":{"openlayers-map":{"width":"100%","height":"240px","image_path":"sites\/all\/modules\/contrib\/openlayers\/themes\/default_dark\/img\/","css_path":"sites\/all\/modules\/contrib\/openlayers\/themes\/default_dark\/style.css","proxy_host":"","hide_empty_map":1,"center":{"initial":{"centerpoint":"-105.11718748835729, 39.90973623405987","zoom":"14"},"restrict":{"restrictextent":0,"restrictedExtent":""}},"behaviors":{"openlayers_behavior_fullscreen":{"activated":0},"openlayers_behavior_keyboarddefaults":{"keyboarddefaults":""},"openlayers_behavior_navigation":{"zoomWheelEnabled":1,"zoomBoxEnabled":1,"documentDrag":0,"navigation":""},"openlayers_behavior_panzoom":{"panzoom":""},"openlayers_behavior_popup":{"layers":{"map_view_openlayers_1":"map_view_openlayers_1"},"panMapIfOutOfView":1,"keepInMap":0,"zoomToPoint":0,"zoomToCluster":0},"openlayers_behavior_zoomtolayer":{"zoomtolayer":{"map_view_openlayers_1":"map_view_openlayers_1","mapquest_osm":0},"point_zoom_level":"17","zoomtolayer_scale":"1"}},"default_layer":"osm_mapnik","layers":{"map_view_openlayers_1":{"layer_handler":"openlayers_views_vector","layer_type":"openlayers_views_vector","projection":"EPSG:4326","isBaseLayer":false,"vector":true,"type":"Vector","url":[],"options":{"rendererOptions":{"yOrdering":true}},"events":[],"views":{"view":"map_view","display":"openlayers_1"},"features":[{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/darley-towers\u0022\u003EDARLEY TOWERS\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.25247281132 39.997984203086)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/darley-towers\u0022\u003EDARLEY TOWERS\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.25247281132 39.997984203086)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/hallett-hall\u0022\u003EHALLETT HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2660778 40.0046899)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/hallett-hall\u0022\u003EHALLETT HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2660778 40.0046899)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/baker-hall\u0022\u003EBAKER HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.26805108128 40.006913571238)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/baker-hall\u0022\u003EBAKER HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.26805108128 40.006913571238)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/crosman-hall\u0022\u003ECROSMAN HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2641182 40.0068738)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/crosman-hall\u0022\u003ECROSMAN HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2641182 40.0068738)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/farrand-hall\u0022\u003EFARRAND HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.26578193244 40.006091772988)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/farrand-hall\u0022\u003EFARRAND HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.26578193244 40.006091772988)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/arnett-hall\u0022\u003EARNETT HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.26109879551 40.003503043839)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/arnett-hall\u0022\u003EARNETT HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.26109879551 40.003503043839)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/brackett-hall\u0022\u003EBRACKETT HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.26525085506 40.007172435638)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/brackett-hall\u0022\u003EBRACKETT HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.26525085506 40.007172435638)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/buckingham-hall\u0022\u003EBUCKINGHAM HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.26075010834 40.002192205453)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/buckingham-hall\u0022\u003EBUCKINGHAM HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.26075010834 40.002192205453)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/cheyenne-arapaho-hall\u0022\u003ECHEYENNE ARAPAHO HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.26783650455 40.005298728298)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/cheyenne-arapaho-hall\u0022\u003ECHEYENNE ARAPAHO HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.26783650455 40.005298728298)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/cockerell-hall\u0022\u003ECOCKERELL HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2645159298 40.006925898136)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/cockerell-hall\u0022\u003ECOCKERELL HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2645159298 40.006925898136)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/kittredge-central\u0022\u003EKITTREDGE CENTRAL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2623811 40.0034487)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/kittredge-central\u0022\u003EKITTREDGE CENTRAL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2623811 40.0034487)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/bear-creek-apt-b\u0022\u003EBEAR CREEK APT B\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2498694 39.9966917)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/bear-creek-apt-b\u0022\u003EBEAR CREEK APT B\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2498694 39.9966917)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/bear-creek-commons\u0022\u003EBEAR CREEK COMMONS\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2453972 39.9931006)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/bear-creek-commons\u0022\u003EBEAR CREEK COMMONS\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2453972 39.9931006)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/aden-hall\u0022\u003EADEN HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.26540642319 40.006872481561)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/aden-hall\u0022\u003EADEN HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.26540642319 40.006872481561)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/andrews-hall\u0022\u003EANDREWS HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2621073061 40.003227728773)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/andrews-hall\u0022\u003EANDREWS HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2621073061 40.003227728773)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/weber-hall-bear-creek-apartments\u0022\u003EWEBER HALL AT BEAR CREEK APARTMENTS\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2507675 39.9976924)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/weber-hall-bear-creek-apartments\u0022\u003EWEBER HALL AT BEAR CREEK APARTMENTS\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2507675 39.9976924)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/stearns-towers\u0022\u003ESTEARNS TOWERS\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2529515 39.9985426)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/stearns-towers\u0022\u003ESTEARNS TOWERS\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2529515 39.9985426)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/kittredge-west-hall\u0022\u003EKITTREDGE WEST HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2620342 40.0016305)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/kittredge-west-hall\u0022\u003EKITTREDGE WEST HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2620342 40.0016305)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/libby-hall\u0022\u003ELIBBY HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2670911 40.0065343)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/libby-hall\u0022\u003ELIBBY HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2670911 40.0065343)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/reed-hall\u0022\u003EREED HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2641182 40.0068738)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/reed-hall\u0022\u003EREED HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2641182 40.0068738)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/sewall-hall\u0022\u003ESEWALL HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2732601 40.0105886)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/sewall-hall\u0022\u003ESEWALL HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2732601 40.0105886)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/smith-hall\u0022\u003ESMITH HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.26189272937 40.002270281171)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/smith-hall\u0022\u003ESMITH HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.26189272937 40.002270281171)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/williams-village-north\u0022\u003EWILLIAMS VILLAGE NORTH\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2508994 39.9999484)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/williams-village-north\u0022\u003EWILLIAMS VILLAGE NORTH\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2508994 39.9999484)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/willard-hall\u0022\u003EWILLARD HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2660778 40.0046899)\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/willard-hall\u0022\u003EWILLARD HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2660778 40.0046899)"}],"title":"","weight":0},"osm_mapnik":{"isBaseLayer":true,"attribution":"\u0026copy;\u003Ca href=\u0022http:\/\/creativecommons.org\/licenses\/by-sa\/2.0\/\u0022\u003ECCBYSA\u003C\/a\u003E \u003Ca href=\u0022http:\/\/www.openstreetmap.org\/copyright\u0022\u003E\u0026copy; OpenStreetMap contributors\u003C\/a\u003E","projection":"EPSG:3857","layer_type":"openlayers_layer_type_xyz","url":"http:\/\/tile.openstreetmap.org\/${z}\/${x}\/${y}.png","wrapDateLine":true,"layer_handler":"xyz","sphericalMercator":true,"zoomOffset":0,"resolutions":[156543.0339,78271.51695,39135.758475,19567.8792375,9783.93961875,4891.969809375,2445.9849046875,1222.9924523438,611.49622617188,305.74811308594,152.87405654297,76.437028271484,38.218514135742,19.109257067871,9.5546285339355,4.7773142669678,2.3886571334839,1.1943285667419],"serverResolutions":[156543.0339,78271.51695,39135.758475,19567.8792375,9783.93961875,4891.969809375,2445.9849046875,1222.9924523438,611.49622617188,305.74811308594,152.87405654297,76.437028271484,38.218514135742,19.109257067871,9.5546285339355,4.7773142669678,2.3886571334839,1.1943285667419,0.59716428337097,0.29858214169741,0.1492910708487,0.074645535424352],"base_url":null,"transitionEffect":"resize","weight":0,"title":"OSM Mapnik"}},"layer_weight":{"map_view_openlayers_1":"0","map_view_openlayers_2":"0","openlayers_geojson_picture_this":"0","openlayers_kml_example":"0","geofield_formatter":"0"},"layer_styles":{"geofield_formatter":"default","openlayers_kml_example":"default","openlayers_geojson_picture_this":"default","map_view_openlayers_2":"default","map_view_openlayers_1":"default"},"layer_styles_select":{"geofield_formatter":"select","openlayers_kml_example":"select","openlayers_geojson_picture_this":"select","map_view_openlayers_2":"select","map_view_openlayers_1":"select"},"layer_styles_temporary":{"geofield_formatter":"temporary","openlayers_kml_example":"temporary","openlayers_geojson_picture_this":"temporary","map_view_openlayers_2":"temporary","map_view_openlayers_1":"temporary"},"layer_activated":{"map_view_openlayers_1":"map_view_openlayers_1","geofield_formatter":0,"openlayers_kml_example":0,"openlayers_geojson_picture_this":0,"map_view_openlayers_2":0},"layer_switcher":{"map_view_openlayers_1":0,"geofield_formatter":0,"openlayers_kml_example":0,"openlayers_geojson_picture_this":0,"map_view_openlayers_2":0},"projection":"EPSG:3857","displayProjection":"EPSG:4326","styles":{"default":{"pointRadius":"6","fillColor":"#888888","strokeColor":"#222222","strokeWidth":"4","fillOpacity":"0.5","strokeOpacity":"0.7"},"select":{"pointRadius":"6","fillColor":"#888888","strokeColor":"#222222","strokeWidth":"4","fillOpacity":"0.5","strokeOpacity":"0.7"},"temporary":{"pointRadius":"6","fillColor":"#888888","strokeColor":"#222222","strokeWidth":"4","fillOpacity":"0.5","strokeOpacity":"0.7"}},"map_name":"dashboard_housing_map","id":"openlayers-map","maxExtent":[-20037508.34,-20037508.34,20037508.34,20037508.34],"errors":false},"openlayers-map--2":{"width":"100%","height":"240px","image_path":"sites\/all\/modules\/contrib\/openlayers\/themes\/default_dark\/img\/","css_path":"sites\/all\/modules\/contrib\/openlayers\/themes\/default_dark\/style.css","proxy_host":"","hide_empty_map":0,"center":{"initial":{"centerpoint":"-105.11718748835729, 39.90973623405987","zoom":"14"},"restrict":{"restrictextent":0,"restrictedExtent":""}},"behaviors":{"openlayers_behavior_fullscreen":{"activated":0},"openlayers_behavior_keyboarddefaults":{"keyboarddefaults":""},"openlayers_behavior_navigation":{"zoomWheelEnabled":1,"zoomBoxEnabled":1,"documentDrag":0,"navigation":""},"openlayers_behavior_panzoom":{"panzoom":""},"openlayers_behavior_popup":{"layers":{"map_view_openlayers_2":"map_view_openlayers_2"},"panMapIfOutOfView":1,"keepInMap":0,"zoomToPoint":0,"zoomToCluster":0},"openlayers_behavior_zoomtolayer":{"zoomtolayer":{"map_view_openlayers_2":"map_view_openlayers_2","mapquest_osm":0},"point_zoom_level":"17","zoomtolayer_scale":"1"}},"default_layer":"osm_mapnik","layers":{"map_view_openlayers_2":{"layer_handler":"openlayers_views_vector","layer_type":"openlayers_views_vector","projection":"EPSG:4326","isBaseLayer":false,"vector":true,"type":"Vector","url":[],"options":{"rendererOptions":{"yOrdering":true}},"events":[],"views":{"view":"map_view","display":"openlayers_2"},"features":[{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/darley-commons\u0022\u003EDARLEY COMMONS\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.25183443839 39.9975989305)\u003C\/div\u003E  \u003C\/div\u003E","field_dining_locations":"\u003Cdiv class=\u0022views-field views-field-field-dining-locations\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-dining-locations\u0022\u003EDining Locations: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/dining\/darley-commons\u0022\u003EDarley Commons\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/213\u0022\u003E2.1.3\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/village-market\u0022\u003EVillage Market\u003C\/a\u003E\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-field-dining-locations\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-dining-locations\u0022\u003EDining Locations: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/dining\/darley-commons\u0022\u003EDarley Commons\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/213\u0022\u003E2.1.3\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/village-market\u0022\u003EVillage Market\u003C\/a\u003E\u003C\/div\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.25183443839 39.9975989305)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/farrand-hall\u0022\u003EFARRAND HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.26578193244 40.006091772988)\u003C\/div\u003E  \u003C\/div\u003E","field_dining_locations":"\u003Cdiv class=\u0022views-field views-field-field-dining-locations\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-dining-locations\u0022\u003EDining Locations: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/dining\/go-fresh\u0022\u003EGo-Fresh\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/emporiumfarrand\u0022\u003Eemporium@Farrand\u003C\/a\u003E\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-field-dining-locations\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-dining-locations\u0022\u003EDining Locations: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/dining\/go-fresh\u0022\u003EGo-Fresh\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/emporiumfarrand\u0022\u003Eemporium@Farrand\u003C\/a\u003E\u003C\/div\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.26578193244 40.006091772988)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/center-community\u0022\u003ECENTER FOR COMMUNITY\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.26497726255 40.004206730377)\u003C\/div\u003E  \u003C\/div\u003E","field_dining_locations":"\u003Cdiv class=\u0022views-field views-field-field-dining-locations\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-dining-locations\u0022\u003EDining Locations: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/dining\/center-community\u0022\u003ECenter for Community\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/cu-run\u0022\u003ECU on the Run\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/bakery\u0022\u003EThe Bakery\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/weathertech-cafe\u0022\u003EWeatherTech Cafe\u003C\/a\u003E\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-field-dining-locations\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-dining-locations\u0022\u003EDining Locations: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/dining\/center-community\u0022\u003ECenter for Community\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/cu-run\u0022\u003ECU on the Run\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/bakery\u0022\u003EThe Bakery\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/weathertech-cafe\u0022\u003EWeatherTech Cafe\u003C\/a\u003E\u003C\/div\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.26497726255 40.004206730377)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/kittredge-central\u0022\u003EKITTREDGE CENTRAL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2623811 40.0034487)\u003C\/div\u003E  \u003C\/div\u003E","field_dining_locations":"\u003Cdiv class=\u0022views-field views-field-field-dining-locations\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-dining-locations\u0022\u003EDining Locations: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/dining\/hub\u0022\u003EThe Hub\u003C\/a\u003E\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-field-dining-locations\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-dining-locations\u0022\u003EDining Locations: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/dining\/hub\u0022\u003EThe Hub\u003C\/a\u003E\u003C\/div\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2623811 40.0034487)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/libby-hall\u0022\u003ELIBBY HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2670911 40.0065343)\u003C\/div\u003E  \u003C\/div\u003E","field_dining_locations":"\u003Cdiv class=\u0022views-field views-field-field-dining-locations\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-dining-locations\u0022\u003EDining Locations: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/dining\/libby-hall\u0022\u003ELibby Hall\u003C\/a\u003E\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-field-dining-locations\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-dining-locations\u0022\u003EDining Locations: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/dining\/libby-hall\u0022\u003ELibby Hall\u003C\/a\u003E\u003C\/div\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2670911 40.0065343)"},{"projection":"EPSG:4326","attributes":{"title":"\u003Cdiv class=\u0022views-field views-field-title\u0022\u003E        \u003Cspan class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/building\/sewall-hall\u0022\u003ESEWALL HALL\u003C\/a\u003E\u003C\/span\u003E  \u003C\/div\u003E","body":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E","field_geolocation":"\u003Cdiv class=\u0022views-field views-field-field-geolocation\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-geolocation\u0022\u003Egeolocation: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003EPOINT (-105.2732601 40.0105886)\u003C\/div\u003E  \u003C\/div\u003E","field_dining_locations":"\u003Cdiv class=\u0022views-field views-field-field-dining-locations\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-dining-locations\u0022\u003EDining Locations: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/dining\/zellers-market\u0022\u003EZeller\u0026#039;s Market\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/sewall-hall\u0022\u003ESewall Hall\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/zellers\u0022\u003EZeller\u0026#039;s\u003C\/a\u003E\u003C\/div\u003E  \u003C\/div\u003E","name":"\u003Cdiv class=\u0022views-field views-field-field-dining-locations\u0022\u003E    \u003Cspan class=\u0022views-label views-label-field-dining-locations\u0022\u003EDining Locations: \u003C\/span\u003E    \u003Cdiv class=\u0022field-content\u0022\u003E\u003Ca href=\u0022\/dining\/zellers-market\u0022\u003EZeller\u0026#039;s Market\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/sewall-hall\u0022\u003ESewall Hall\u003C\/a\u003E, \u003Ca href=\u0022\/dining\/zellers\u0022\u003EZeller\u0026#039;s\u003C\/a\u003E\u003C\/div\u003E  \u003C\/div\u003E","description":"\u003Cdiv class=\u0022views-field views-field-body\u0022\u003E        \u003Cdiv class=\u0022field-content\u0022\u003E\u003C\/div\u003E  \u003C\/div\u003E"},"style":null,"wkt":"POINT (-105.2732601 40.0105886)"}],"title":"","weight":0},"osm_mapnik":{"isBaseLayer":true,"attribution":"\u0026copy;\u003Ca href=\u0022http:\/\/creativecommons.org\/licenses\/by-sa\/2.0\/\u0022\u003ECCBYSA\u003C\/a\u003E \u003Ca href=\u0022http:\/\/www.openstreetmap.org\/copyright\u0022\u003E\u0026copy; OpenStreetMap contributors\u003C\/a\u003E","projection":"EPSG:3857","layer_type":"openlayers_layer_type_xyz","url":"http:\/\/tile.openstreetmap.org\/${z}\/${x}\/${y}.png","wrapDateLine":true,"layer_handler":"xyz","sphericalMercator":true,"zoomOffset":0,"resolutions":[156543.0339,78271.51695,39135.758475,19567.8792375,9783.93961875,4891.969809375,2445.9849046875,1222.9924523438,611.49622617188,305.74811308594,152.87405654297,76.437028271484,38.218514135742,19.109257067871,9.5546285339355,4.7773142669678,2.3886571334839,1.1943285667419],"serverResolutions":[156543.0339,78271.51695,39135.758475,19567.8792375,9783.93961875,4891.969809375,2445.9849046875,1222.9924523438,611.49622617188,305.74811308594,152.87405654297,76.437028271484,38.218514135742,19.109257067871,9.5546285339355,4.7773142669678,2.3886571334839,1.1943285667419,0.59716428337097,0.29858214169741,0.1492910708487,0.074645535424352],"base_url":null,"transitionEffect":"resize","weight":0,"title":"OSM Mapnik"}},"layer_weight":{"map_view_openlayers_2":"0","map_view_openlayers_1":"0","openlayers_geojson_picture_this":"0","openlayers_kml_example":"0","geofield_formatter":"0"},"layer_styles":{"geofield_formatter":"default","openlayers_kml_example":"default","openlayers_geojson_picture_this":"default","map_view_openlayers_1":"default","map_view_openlayers_2":"default"},"layer_styles_select":{"geofield_formatter":"select","openlayers_kml_example":"select","openlayers_geojson_picture_this":"select","map_view_openlayers_1":"select","map_view_openlayers_2":"select"},"layer_styles_temporary":{"geofield_formatter":"temporary","openlayers_kml_example":"temporary","openlayers_geojson_picture_this":"temporary","map_view_openlayers_1":"temporary","map_view_openlayers_2":"temporary"},"layer_activated":{"map_view_openlayers_2":"map_view_openlayers_2","geofield_formatter":0,"openlayers_kml_example":0,"openlayers_geojson_picture_this":0,"map_view_openlayers_1":0},"layer_switcher":{"map_view_openlayers_2":0,"geofield_formatter":0,"openlayers_kml_example":0,"openlayers_geojson_picture_this":0,"map_view_openlayers_1":0},"projection":"EPSG:3857","displayProjection":"EPSG:4326","styles":{"default":{"pointRadius":"6","fillColor":"#888888","strokeColor":"#222222","strokeWidth":"4","fillOpacity":"0.5","strokeOpacity":"0.7"},"select":{"pointRadius":"6","fillColor":"#888888","strokeColor":"#222222","strokeWidth":"4","fillOpacity":"0.5","strokeOpacity":"0.7"},"temporary":{"pointRadius":"6","fillColor":"#888888","strokeColor":"#222222","strokeWidth":"4","fillOpacity":"0.5","strokeOpacity":"0.7"}},"map_name":"dashboard_map","id":"openlayers-map--2","maxExtent":[-20037508.34,-20037508.34,20037508.34,20037508.34],"errors":false}}},"urlIsAjaxTrusted":{"\/map\/dining":true,"\/dashboard":true},"responsive_menus":[{"toggler_text":"\u2630 Menu","selectors":[".nav"],"media_size":"767","remove_attributes":true,"responsive_menus_style":"responsive_menus_simple"}],"superfish":[{"id":"1","sf":{"pathLevels":"0","animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":true,"dropShadows":true,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}},{"id":"2","sf":{"pathLevels":"0","animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":true,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}]});</script>
+</head>
+<body  onload="placeholder();" class="html not-front logged-in page-dashboard   section-dashboard">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <div class="l-page">
+      <div class="l-header-wrapper">
+    <header class="l-header" role="banner">
+    <div class="l-constrained">
+
+          <a href="/" class="headerLeft">
+                      </a>
+          <div class="headerRight">
+              <div class="l-region region-headerright">
+    <div class="panel-pane pane-block pane-block-6">
+             <p><strong><a href="http://www.colorado.edu">CU</a></strong>: <a href="http://colorado.edu">Campus</a> • <a href="http://www.colorado.edu/atoz/">A to Z</a> • <a href="http://www.colorado.edu/campusmap">Campus Map</a></p>
+     </div>
+<div class="panel-pane pane-block pane-search-form">
+            <form class="search-block-form" action="/dashboard" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-okQODtKchfYCqWAPBSzggVGeTSYQFoyd1S5Gzr5zgno" />
+<input type="hidden" name="form_token" value="zc0IJsxcfvP7VTfg3qnRZfb0m4SOkf2nnyuoMmcscUk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+  </div>
+          </div>
+
+          </div>
+
+  </header>
+        </div>
+    <div class="nav-wrapper">
+        <div class="nav">
+            <div class="l-region l-region--navigation">
+    <div class="panel-pane pane-block pane-superfish-1">
+            <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-5 sf-parent-items-0 sf-single-items-5"><li id="menu-224-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" title="" class="sf-depth-1">HOME</a></li><li id="menu-3559-1" class="active-trail middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/dashboard" title="" class="sf-depth-1 active">DASHBOARD</a></li><li id="menu-1372-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/resources" class="sf-depth-1">RESOURCES</a></li><li id="menu-1373-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/faq" class="sf-depth-1">FAQ</a></li><li id="menu-6136-1" class="last odd sf-item-5 sf-depth-1 sf-no-children"><a href="/help-videos" class="sf-depth-1">HELP</a></li></ul>    </div>
+<div class="panel-pane pane-block pane-superfish-2">
+          <h2 class="pane-title">User menu</h2>
+        <ul id="superfish-2" class="menu sf-menu sf-user-menu sf-horizontal sf-style-none"><li id="menu-2-2" class="sf-depth-1 menuparent"><a href="/user" class="sf-depth-1 menuparent">WELCOME, RYAN</a><ul><li id="menu-15-2" class="sf-depth-2 sf-no-children"><a href="/user/logout?current=dashboard" title="" class="sf-depth-2">LOG OUT</a></li><li id="menu-3563-2" class="sf-depth-2 sf-no-children"><a href="/user" title="" class="sf-depth-2">MY ACCOUNT</a></li></ul></li></ul>    </div>
+  </div>
+        </div>
+    </div>
+
+  <div class="l-main-wrapper">
+    <div class="l-main">
+      <div class="l-content" role="main">
+                        <a id="main-content"></a>
+                                                                <div class="panel-pane pane-page-content">
+            <div class="l-content" role="main">
+      <a id="main-content"></a>
+              
+  <div class="dashboard-toprow">
+  	  <div class="l-region l-region--toprow">
+    <div class="panel-pane pane-block pane-quicktabs-dashboard">
+            <div  id="quicktabs-dashboard" class="quicktabs-wrapper quicktabs-style-navlist"><ul class="quicktabs-tabs quicktabs-style-navlist"><li class="active"><a href="/dashboard?qt-dashboard=0#qt-dashboard" id="quicktabs-tab-dashboard-0" class="active">Housing</a></li>
+<li><a href="/dashboard?qt-dashboard=1#qt-dashboard" id="quicktabs-tab-dashboard-1" class="active">My Info</a></li>
+<li><a href="/dashboard?qt-dashboard=2#qt-dashboard" id="quicktabs-tab-dashboard-2" class="active">Dining</a></li>
+</ul><div id="quicktabs-container-dashboard" class="quicktabs_main quicktabs-style-navlist"><div  id="quicktabs-tabpage-dashboard-0" class="quicktabs-tabpage "><div id="block-panels-mini-dashboard-housing" class="block block--panels-mini block--panels-mini-dashboard-housing">
+        <div class="block__content">
+    
+<div class="panel-display panel-3col-33 clearfix" id="mini-panel-dashboard_housing">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-block pane-myroom-myroom">
+          <h2 class="pane-title">MyRoom Links</h2>
+        <p>All your roommates have completed their personal profiles.  Now you can <a href='/node/72210/edit'>complete your roommate agreement</a>.</p>    </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col">
+    <div class="inside"><div class="panel-pane pane-custom pane-1 field--name-field-content">
+          <h2 class="pane-title">Housing Actions</h2>
+         <p><a class="room-change" href="https://housing.colorado.edu/housing-assignments/change-room/apartment-information" style="font-size: 13.008px; line-height: 20.0063px;" target="_blank">Room Change</a><span style="font-size: 13.008px; line-height: 20.0063px;"> </span><a class="fixit-request" href="http://tma.colorado.edu:11010/request.html" style="font-size: 13.008px; line-height: 20.0063px;" target="_blank">Fixit Request</a><span style="font-size: 13.008px; line-height: 20.0063px;"> </span><a class="movie-checkout" href="http://buffbus.etaspot.net/" style="font-size: 13.008px; line-height: 20.0063px;" target="_blank">Movie Checkout</a><span style="font-size: 13.008px; line-height: 20.0063px;"> </span><a class="laundry" href="http://laundryview.com/lvs.php?s=2590" style="font-size: 13.008px; line-height: 20.0063px;" target="_blank">Laundry</a></p>
+     </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-block pane-views-map-view-block-4">
+          <h2 class="pane-title">Housing Map</h2>
+        <div class="view view-map-view view-id-map_view view-display-id-block_4 view-dom-id-3d071e8c3e83db206cd8f07d7bd3123e">
+        
+  
+  
+      <div class="view-content">
+      <div class="openlayers-views-map"><div style="width:100%;height:240px;" id="openlayers-container-openlayers-map" class="contextual-links-region openlayers-container openlayers-container-map-dashboard-housing-map">
+    <div style="width:100%;height:240px;" id="openlayers-map" class="openlayers-map openlayers-map-dashboard-housing-map"></div>
+</div>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+</div><div  id="quicktabs-tabpage-dashboard-1" class="quicktabs-tabpage quicktabs-hide"><div id="block-panels-mini-dashboard-my-info" class="block block--panels-mini block--panels-mini-dashboard-my-info">
+        <div class="block__content">
+    <div class="panel-display panel-2col clearfix" id="mini-panel-dashboard_my_info">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-block pane-custom-dashboard-dashboard-my-roommates">
+            <h2 class="pane-title">My Roommates</h2><div class="roommie"><img class="my-info-img" id="my-info-img" typeof="foaf:Image" src="https://oncampus.colorado.edu/sites/default/files/pictures/picture-100718567-1440114629.jpg" alt="Connor Troy" /><span class="roommate-name">Connor Troy</span> <br /><a href="mailto:Connor.Troy@Colorado.EDU">Connor.Troy@Colorado.EDU</a><br /> </div>    </div>
+<div class="panel-pane pane-block pane-custom-dashboard-dashboard-my-staff">
+          <h2 class="pane-title">My Staff</h2>
+        <div class="staff"><img class="my-info-img" id="my-info-img" typeof="foaf:Image" src="https://oncampus.colorado.edu/sites/default/files/pictures/picture-100660352-1439011908.jpg" alt="Conor Mead" /><span class="staff-name">Conor Mead,</span> <br /> <span class="staff-type">Resident Advisor</span> <br /> <span class="staff-email"><a href="mailto:Conor.Mead@Colorado.EDU">Email Resident Advisor</a></span> <br /> <span class="staff-phone"></span> </div>    </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-block pane-custom-dashboard-dashboard-image">
+            <img class="my-info-img" id="my-info-img" typeof="foaf:Image" src="https://oncampus.colorado.edu/sites/default/files/pictures/picture-100719200-1440114642.jpg" alt="Ryan Rouleau" />    </div>
+<div class="panel-pane pane-block pane-views-dashboard-my-info-block">
+            <div class="view view-dashboard view-id-dashboard view-display-id-my_info_block view-dom-id-bac4873be0467adbcfc263146999a8ac">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last dashboard-dining-balances">
+      
+  <div class="views-field views-field-field-first-name">        <div class="field-content">Ryan Rouleau</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+<div class="panel-pane pane-block pane-custom-dashboard-dashboard-address-block">
+          <h2 class="pane-title">My Address</h2>
+        9680&nbsp;Stearns Towers<br />600 30th St<br />Boulder, CO&nbsp;&nbsp;80310    </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+</div><div  id="quicktabs-tabpage-dashboard-2" class="quicktabs-tabpage quicktabs-hide"><div id="block-panels-mini-dashboard-dining" class="block block--panels-mini block--panels-mini-dashboard-dining">
+        <div class="block__content">
+    <div class="panel-display panel-2col clearfix" id="mini-panel-dashboard_dining">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-block pane-custom-dashboard-dashboard-dining-balances">
+          <h2 class="pane-title">Dining Balance</h2>
+        <div class="dashboard-dining-balances"> 
+        <span class="label-campus-cash">Campus Cash Balance:</span> $1.25<br /><span class="label-meal-plan">Meal Plan Balance:</span> 6<br /><span class="label-munch-money">Munch Money Balance:</span> $17.28</div>    </div>
+<div class="panel-pane pane-block pane-custom-dashboard-dashboard-dining-info">
+            <ul><li><a href="https://services.jsatech.com/payment.php?cid=59&amp;)" class="campus-cash-link" target="_blank">Add Campus Cash</a></li><li><a href="http://hdsapps.colorado.edu/StarRezPortal" class="block-meals-link" target="_blank">Buy Meals &amp; Munch Money</a></li><li><a href="http://hdsmenus.colorado.edu/netnutrition" class="net-nutrition-link" target="_blank">Nutritional Information</a></li></ul>    </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-block pane-views-map-view-block-2">
+          <h2 class="pane-title">Where Can I Eat?</h2>
+        <div class="view view-map-view view-id-map_view view-display-id-block_2 view-dom-id-7977364397bafc70dfc2da3025be2a91">
+        
+  
+  
+      <div class="view-content">
+      <div class="openlayers-views-map"><div style="width:100%;height:240px;" id="openlayers-container-openlayers-map--2" class="contextual-links-region openlayers-container openlayers-container-map-dashboard-map">
+    <div style="width:100%;height:240px;" id="openlayers-map--2" class="openlayers-map openlayers-map-dashboard-map"></div>
+</div>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+</div></div></div>    </div>
+  </div>
+  </div>
+
+  <div class="dashboard-alert">
+  	  </div>
+
+  <div class="bottom_row">
+  	  <div class="l-region l-region--bottomrow-right">
+    <div class="panel-pane pane-block pane-custom-dashboard-dashboard-want-to">
+            <ul class="menu"><li class="want-to"><a href="http://housing.colorado.edu/RA" class="want-to-link">Apply to be an RA</a></li><li class="want-to"><a href="/roomie-issues" class="want-to-link">Help with roommate issues</a></li><li class="want-to"><a href="http://housing.colorado.edu/policies-procedures/residence-hall-handbook" class="want-to-link">View Res Hall Handbook</a></li><li class="want-to"><a href="http://housing.colorado.edu/policies-procedures/contract" class="want-to-link">Read my contract</a></li><li class="want-to"><a href="https://housing.colorado.edu/tutoring" class="want-to-link" target="_blank">Get Tutoring</a></li><li class="want-to"><a href="http://hdsapps.colorado.edu/StarRezPortal" class="want-to-link" target="_blank">Apply for Housing</a></li><li class="want-to"><a href="/sites/all/themes/oncampus_omega4/files/CU%20Cable%20Trouble%20Shooting%20Guide.pdf" class="want-to-link" target="_blank">Cable Trouble-Shooting Guide</a></li></ul>    </div>
+  </div>
+  	  <div class="l-region l-region--bottomrow-center">
+    <div class="panel-pane pane-block pane-quicktabs-news-updates-tabs">
+            <div  id="quicktabs-news_updates_tabs" class="quicktabs-wrapper quicktabs-style-basic"><ul class="quicktabs-tabs quicktabs-style-basic"><li class="active"><a href="/dashboard?qt-news_updates_tabs=0#qt-news_updates_tabs" id="quicktabs-tab-news_updates_tabs-0" class="active">MY HALL</a></li>
+<li><a href="/dashboard?qt-news_updates_tabs=1#qt-news_updates_tabs" id="quicktabs-tab-news_updates_tabs-1" class="active">NEWS</a></li>
+</ul><div id="quicktabs-container-news_updates_tabs" class="quicktabs_main quicktabs-style-basic"><div  id="quicktabs-tabpage-news_updates_tabs-0" class="quicktabs-tabpage "><div id="block-views-events-oncampus-event-block" class="block block--views block--views-events-oncampus-event-block">
+        <div class="block__content">
+    <div class="view view-events view-id-events view-display-id-oncampus_event_block view-dom-id-047db34affb52f0664cdf71d95ff9ee1">
+        
+  
+  
+      <div class="view-empty">
+      <p>There are no events currently scheduled</p>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+</div><div  id="quicktabs-tabpage-news_updates_tabs-1" class="quicktabs-tabpage quicktabs-hide"><div id="block-views-bb6460d3b0bb619ab9c45d4fe863dd56" class="block block--views block--views-bb6460d3b0bb619ab9c45d4fe863dd56">
+        <div class="block__content">
+    <div class="view view-news-aggregator view-id-news_aggregator view-display-id-news_events_housing_block view-dom-id-8fb25a80d08530137c6486dd01a4fb32">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-0">
+      <tbody>
+      <tr class="odd views-row-first">
+              <td class="views-field views-field-title">
+          <a href="https://housing.colorado.edu/calendar/bear-creek-application-opens">Bear Creek Application Opens</a>
+
+      Event Date&nbsp;
+    
+          Jan 20 2016 - 08:00
+      
+
+
+
+    
+          <p>Applications for fall 2016 open. Tours available during...        </td>
+          </tr>
+      <tr class="even">
+              <td class="views-field views-field-title">
+          <a href="https://housing.colorado.edu/YoureAlreadyHome">You&#039;re Already Home - Reapplying to the Residence Halls</a>
+
+    
+          
+You're Already Home!
+<p>Living in the residence halls offers the top three benefits that nowhere else in Boulder can: location,...        </td>
+          </tr>
+      <tr class="odd views-row-last">
+              <td class="views-field views-field-title">
+          <a href="https://housing.colorado.edu/news/snow-closures-february-2-2016">Snow Closures - February 2, 2016</a>
+
+    
+          <p>CU-BOULDER ALERT </p>
+<p>Campus closed today due to hazardous winter weather conditions. Check ...        </td>
+          </tr>
+    </tbody>
+</table>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/content/housing_news">
+    MORE  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div>
+</div></div></div>    </div>
+  </div>
+ 	  <div class="l-region l-region--bottomrow-left">
+    <div class="panel-pane pane-block pane-views-dashboard-ads-block">
+            <div class="view view-dashboard-ads view-id-dashboard_ads view-display-id-block view-dom-id-ec6e74c25479d0f6fce6f62e7391ecf4">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_dashboard_ads-block" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_dashboard_ads-block" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_dashboard_ads-block_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+  <div class="entity entity-bean bean-dashboard-ads clearfix" about="/block/winter" typeof="" class="entity entity-bean bean-dashboard-ads">
+
+  <div class="content">
+    <div class="field field--name-field-ad-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="https://oncampus.colorado.edu/sites/default/files/winter1.png"><img typeof="foaf:Image" src="https://oncampus.colorado.edu/sites/default/files/styles/dashboard_ads/public/winter1.png?itok=c4lykJK1" width="283" height="373" alt="" /></a></div></div></div>  </div>
+</div>
+</div>
+</div>
+<div id="views_slideshow_cycle_div_dashboard_ads-block_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even">
+  <div class="entity entity-bean bean-dashboard-ads clearfix" about="/block/dining" typeof="" class="entity entity-bean bean-dashboard-ads">
+
+  <div class="content">
+    <div class="field field--name-field-ad-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="https://oncampus.colorado.edu/sites/default/files/spring.png"><img typeof="foaf:Image" src="https://oncampus.colorado.edu/sites/default/files/styles/dashboard_ads/public/spring.png?itok=-1TtlUhY" width="283" height="373" alt="" /></a></div></div></div>  </div>
+</div>
+</div>
+</div>
+<div id="views_slideshow_cycle_div_dashboard_ads-block_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-2 views-row-odd">
+  <div class="entity entity-bean bean-dashboard-ads clearfix" about="/block/reshall" typeof="" class="entity entity-bean bean-dashboard-ads">
+
+  <div class="content">
+    <div class="field field--name-field-ad-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="https://oncampus.colorado.edu/sites/default/files/Preview_z706.jpg"><img typeof="foaf:Image" src="https://oncampus.colorado.edu/sites/default/files/styles/dashboard_ads/public/Preview_z706.jpg?itok=Y7sw17Hy" width="283" height="373" alt="" /></a></div></div></div>  </div>
+</div>
+</div>
+</div>
+<div id="views_slideshow_cycle_div_dashboard_ads-block_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-3 views-row-even">
+  <div class="entity entity-bean bean-dashboard-ads clearfix" about="/block/winter-c4c" typeof="" class="entity entity-bean bean-dashboard-ads">
+
+  <div class="content">
+    <div class="field field--name-field-ad-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="https://oncampus.colorado.edu/sites/default/files/c4c.png"><img typeof="foaf:Image" src="https://oncampus.colorado.edu/sites/default/files/styles/dashboard_ads/public/c4c.png?itok=T94rOWXF" width="283" height="373" alt="" /></a></div></div></div>  </div>
+</div>
+</div>
+</div>
+<div id="views_slideshow_cycle_div_dashboard_ads-block_4" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-4 views-row-odd views-row-last">
+  <div class="entity entity-bean bean-dashboard-ads clearfix" about="/block/autumn" typeof="" class="entity entity-bean bean-dashboard-ads">
+
+  <div class="content">
+    <div class="field field--name-field-ad-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="https://oncampus.colorado.edu/sites/default/files/summer.png"><img typeof="foaf:Image" src="https://oncampus.colorado.edu/sites/default/files/styles/dashboard_ads/public/summer.png?itok=21MHLWah" width="283" height="373" alt="" /></a></div></div></div>  </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+  </div>
+
+  
+</div>
+    </div>
+      </div>
+    </div>
+  </div>
+
+     <div class="l-footer-wrapper">
+      <footer class="l-footer" role="contentinfo">
+            <div class="l-region l-region--footer">
+    <div class="panel-pane pane-block pane-custom-blocks-social-media-footer-block">
+            <p class="social-media-icons"><a href="https://www.youtube.com/user/univcoloradoboulder" target="_blank" class="fa fa-youtube fa-2x"></a><a href="https://twitter.com/CUBoulderLiving" target="_blank" class="fa fa-twitter fa-2x"></a><a href="https://instagram.com/CUBoulderLiving" target="_blank" class="fa fa-instagram fa-2x"></a><a href="https://www.facebook.com/CUBoulderLiving" target="_blank" class="fa fa-facebook fa-2x"></a><a href="https://oncampus.colorado.edu/contact" target="_blank" class="fa fa-envelope fa-2x"></a></p><br>
+
+    <h6 class="footer-contact"> <span class="gold-print"><a href="http://housing.colorado.edu" class="gold-print" target="_blank">Housing &amp; Dining Services</a></span><br />
+    159 UCB<br />
+    Boulder, CO 80309<br />
+    303-492-6871</h6>
+
+
+    <span class="be-boulder"></span>
+    <br><br>
+    <div><h5 class="footer-copyright">© The Regents of the University of Colorado <br /><a href="/policies">Privacy</a> | <a href="/terms">Legal &amp; Trademarks</a></h5></div>    </div>
+  </div>
+      </footer>
+    </div>
+</div>
+
+
+  </body>
+</html>
+
+
