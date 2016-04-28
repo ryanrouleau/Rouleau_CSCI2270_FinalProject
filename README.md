@@ -13,7 +13,7 @@ Once compiled, you can run as normal with ./a.out if you have the classic freshm
 If running on the cs vm or OSX, then all dependencies should already be installed.  However, if you have any issues, note that the libraries used were: iostream, sstream, ctime, unistd.h, curl/curl.h, and fstream. 
 
 ## System Requirements
-This should run fine on linux/OSX.  Windows has not been tested. 
+Unix based OS like the cs vm, or OSX.  Will not compile on windows due to getpass() not being available.  
 
 ## Group Members
 N/A - none
