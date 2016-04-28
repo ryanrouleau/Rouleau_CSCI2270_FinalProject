@@ -2,6 +2,7 @@
 #include <fstream>
 #include <iomanip>
 #include <curl/curl.h>
+#include <cstring>
 #include "Balance.h"
 
 using namespace std;
