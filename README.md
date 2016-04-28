@@ -10,7 +10,7 @@ g++ -std=c++11 *.cpp -o a.out -lcurl
 Once compiled, you can run as normal with ./a.out if you have the classic freshman 19/15 swipe per week meal plan, or you can run with an already downloaded html file with the command line argument 'test'. (this would look like: ./a.out test)
 
 ## Dependencies
-If running on the cs vm or OSX, then all dependencies should already be installed.  However, if you have any issues, note that the libraries used were: iostream, sstream, ctime, unistd.h, curl/curl.h, and fstream. 
+If running on the cs vm or OSX, then all dependencies should already be installed.  However, if you have any issues, note that the libraries used were: iostream, sstream, fstream, ctime, unistd.h, curl/curl.h, and cstring. 
 
 ## System Requirements
 Unix based OS like the cs vm, or OSX.  Will not compile on windows due to getpass() not being available.  
