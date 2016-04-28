@@ -8,7 +8,7 @@
 using namespace std;
 
 int main(int argv, char *argc[]) {
-    if (argv > 1 && strcmp(argc[1], "test") == 0) { // command line arg for those w/o proper account
+    if (argv > 1 && argc[1]=="test") { // command line arg for those w/o proper account
         ifstream file;
         file.open("testHtml.txt");
         string tmp;
